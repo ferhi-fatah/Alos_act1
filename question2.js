@@ -1,5 +1,5 @@
 var unirest = require("unirest")
-var req = unirest("GET","http://localhost:3000/coin/informations_generals?$filter=startwith(name,'M')
+var req = unirest("GET","http://localhost:3000/coin/informations_generals?$filter=startwith(name,'M')")
 
 req.headers({
     "cache-control": "no-cache",
