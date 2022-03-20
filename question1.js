@@ -1,5 +1,5 @@
 var unirest = require("unirest")
-var req = unirest("GET","http://localhost:3000/coin?_limit=10")
+var req = unirest("GET","http://localhost:3000/currencies?_limit=10")
 
 req.headers({
     "cache-control": "no-cache",
