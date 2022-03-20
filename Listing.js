@@ -6,7 +6,7 @@ var req = unirest( "GET" , "http://localhost:3000/currencies?_limit=10" );
 
 // la fonction qui permet de filtrer les ressources qui commence par M .
 function filtrer_M(URL) {
-    URL = URL + "?$filter=startswith(currencies.name,'M')" ;
+    URL = URL + "?$filter=startswith(name,'M')" ;
     var req = unirest( "GET" , URL ) ;
 }
 
