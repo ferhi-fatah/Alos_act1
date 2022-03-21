@@ -3,14 +3,17 @@ l'activite 1 de module Architecture logicielle orientée service -- coding API J
 
 ## Etape1 :
 l'installation NodeJs
-$ sudo apt-get install nodejs 
+
+`$ sudo apt-get install nodejs `
 
 ## Etape2 :
 la configuration du serveur JSON
+
 `$ npm install -g json-server`
 
 ## Etape3 :
 l'installation de npm 
+
 `$ sudo apt install npm`
 
 ## Les ressources :
