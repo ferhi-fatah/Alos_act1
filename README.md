@@ -76,6 +76,8 @@ on a 3 ressources : currencies markets and candles
 
 ### candles :
 
+Ces données sont représentées dans les OHLCV candles - Open, High, Low, Close et Volume. De nombreux paramètres sont nécessaires pour demander des candles pour un marché spécifique .
+
 ![image](https://user-images.githubusercontent.com/101930870/159254976-058668fd-72fb-451a-ad28-a05ce61203f7.png)
 
 
