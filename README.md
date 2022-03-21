@@ -6,7 +6,7 @@ on a 3 ressources : currencies markets and candles
 
 currencies : 
 
-![image](https://user-images.githubusercontent.com/101930870/159255223-fc1a2ce5-8dd3-43c1-b991-5423eadca28c.png)
+![image](https://user-images.githubusercontent.com/101930870/159255336-fbf90b0c-15c9-400c-9fb3-58422ede69f8.png)
 
 
 markets :
