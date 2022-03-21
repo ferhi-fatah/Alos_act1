@@ -81,3 +81,15 @@ Ces données sont représentées dans les OHLCV candles - Open, High, Low, Close
 ![image](https://user-images.githubusercontent.com/101930870/159254976-058668fd-72fb-451a-ad28-a05ce61203f7.png)
 
 
+- open : le prix auquel la première transaction a été effectuée dans une période de temps donnée
+
+- high : le prix le plus élevé auquel la base a été négociée au cours de la période
+
+- low : le prix plancher auquel la base a été négociée au cours de la période
+
+- close : le prix auquel la dernière transaction a été effectuée au cours d'une période donnée
+
+- volume : le montant de l'actif de base échangé au cours de la période donnée
+
+- period : horodatage du début de cette période, représenté en millisecondes UNIX
+
