@@ -50,6 +50,29 @@ on a 3 ressources : currencies markets and candles
 
 ![image](https://user-images.githubusercontent.com/101930870/159255040-1fa7a0ce-eafd-4e2d-adf9-49d3e1a33b49.png)
 
+- exchangeId : identifiant unique 
+ 
+- rank :  ce nombre représente le montant du volume traité par ce marché par rapport à d'autres marchés sur cette bourse
+
+- baseSymbol : symbole le plus couramment utilisé pour identifier la device
+
+- baseId : identifiant unique pour cette device
+
+- quoteSymbol : symbole le plus couramment utilisé pour identifier l'actif, la citation est l'actif utilisé pour acheter la base
+
+- quoteId : symbole le plus couramment utilisé pour identifier la device
+
+- priceQuote : le montant de la device de cotation échangé pour une unité de la device de base
+
+- priceUsd : prix de devis traduit en USD
+
+- volumeUsd24Hr : volume traité sur ce marché au cours des dernières 24 heures
+
+- percentExchangeVolume : le volume quotidien d'un seul marché traité par rapport au volume quotidien total de tous les marchés de la bourse
+
+- tradesCount24Hr : nombre de transactions sur ce marché au cours des dernières 24 heures
+
+- updated : Horodatage UNIX (millisecondes) depuis la réception des informations de ce marché particulier
 
 ### candles :
 
