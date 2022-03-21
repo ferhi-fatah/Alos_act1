@@ -1,5 +1,5 @@
 
-- la ligne Numéro 6 du Listing 2 :    `"cache-control": "no-cache"`      signifie :
+- la ligne Numéro 6 du Listing 2 :    "cache-control": "no-cache"      signifie :
 
 L'en-tête HTTP "Cache-Control" contient des  instructions pour les mécanismes de la mise en cache
 dans les requêtes et les réponses.
