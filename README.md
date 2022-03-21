@@ -23,6 +23,18 @@ on a 3 ressources : currencies markets and candles
 
 ![image](https://user-images.githubusercontent.com/101930870/159255491-93f4c0e4-d54b-45d1-ad19-4fd9d2d42a13.png)
 
+° id : identifiant unique 
+° rank : le rang
+° symbol : le symbole le plus couramment utilisé pour identifier cet actif en bourse
+° name : nom propre de l'actif
+° supply : offre disponible pour le commerce
+maxSupply : quantité totale d'actif émis
+marketCapUsd : supply x prix
+volumeUsd24Hr : quantité de volume de transactions représentée en USD au cours des dernières 24 heures
+priceUsd : prix pondéré en fonction du volume basé sur des données de marché en temps réel, converti en USD
+changePercent24Hr : la direction et la valeur changent au cours des dernières 24 heures
+vwap24Hr : Prix moyen pondéré en fonction du volume au cours des dernières 24 heures
+
 
 ### markets :
 
